@@ -1,0 +1,17 @@
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\bin\Debug\Cameras- Ui- And Level Changes.deps.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\bin\Debug\Cameras- Ui- And Level Changes.runtimeconfig.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\bin\Debug\Cameras- Ui- And Level Changes.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\bin\Debug\Cameras- Ui- And Level Changes.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.csproj.AssemblyReference.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.AssemblyInfoInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.AssemblyInfo.cs
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.csproj.CoreCompileInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.csproj.CopyComplete
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\refint\Cameras- Ui- And Level Changes.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.genruntimeconfig.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\ref\Cameras- Ui- And Level Changes.dll

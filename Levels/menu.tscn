@@ -1,0 +1,42 @@
+[gd_scene load_steps=5 format=3 uid="uid://071w4nhd2ja0"]
+
+[ext_resource type="Script" path="res://Levels/Menu.cs" id="1_0n8re"]
+[ext_resource type="PackedScene" uid="uid://piae3olfltj7" path="res://Levels/level_1.tscn" id="2_wyev1"]
+[ext_resource type="PackedScene" uid="uid://scacb66xaq7t" path="res://Levels/level_2.tscn" id="3_u5c4m"]
+[ext_resource type="Script" path="res://Levels/ModifiedButton.cs" id="4_6mbb0"]
+
+[node name="Menu" type="Node2D"]
+script = ExtResource("1_0n8re")
+levelFilePaths = Array[Resource]([ExtResource("2_wyev1"), ExtResource("3_u5c4m")])
+
+[node name="Label" type="Label" parent="."]
+offset_left = 390.0
+offset_top = 106.0
+offset_right = 803.0
+offset_bottom = 189.0
+size_flags_horizontal = 4
+theme_override_font_sizes/font_size = 60
+text = "My First Menu"
+
+[node name="LevelButtons" type="VBoxContainer" parent="."]
+offset_left = 450.0
+offset_top = 300.0
+offset_right = 750.0
+offset_bottom = 390.0
+theme_override_constants/separation = 10
+
+[node name="Level1" type="Button" parent="LevelButtons"]
+custom_minimum_size = Vector2(300, 40)
+layout_mode = 2
+text = "Level 1"
+script = ExtResource("4_6mbb0")
+
+[node name="Level2" type="Button" parent="LevelButtons"]
+custom_minimum_size = Vector2(300, 40)
+layout_mode = 2
+text = "Level 2"
+script = ExtResource("4_6mbb0")
+storedInt = 1
+
+[connection signal="ModifiedPressed" from="LevelButtons/Level1" to="." method="ChangeLevel"]
+[connection signal="ModifiedPressed" from="LevelButtons/Level2" to="." method="ChangeLevel"]
