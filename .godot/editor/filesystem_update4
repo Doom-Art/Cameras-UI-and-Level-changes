@@ -1,8 +1,1 @@
 res://Levels/menu.tscn
-res://tile_map.tscn
-res://player.tscn
-res://Levels/level_1.tscn
-res://Levels/level_2.tscn
-res://Levels/Menu.cs
-res://Player.cs
-res://Levels/ModifiedButton.cs

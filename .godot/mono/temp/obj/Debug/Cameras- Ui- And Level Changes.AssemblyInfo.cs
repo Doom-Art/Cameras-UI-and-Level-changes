@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cameras- Ui- And Level Changes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fd406edd4f6df6c3d2abc911f103b7bafe5f845")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cameras- Ui- And Level Changes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cameras- Ui- And Level Changes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

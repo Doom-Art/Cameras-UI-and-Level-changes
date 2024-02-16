@@ -15,3 +15,4 @@ C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes
 C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.pdb
 C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.genruntimeconfig.cache
 C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\ref\Cameras- Ui- And Level Changes.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras, UI, and Level changes\.godot\mono\temp\obj\Debug\Cameras- Ui- And Level Changes.sourcelink.json
